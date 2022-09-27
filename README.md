@@ -5,6 +5,5 @@ Durante a semana do evento foi desenvolvida o backend e um frontend mobile e out
 
 ### React
 ### React Native
-### JavaScript
 ### TypeScript
 
